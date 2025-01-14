@@ -1,0 +1,14 @@
+Files which are held under the copyright rules set out in LICENSE.txt:
+
+codes.txt.encrypted as distributed (not applicable once codes are changed),
+compile_info.txt,
+INSTALL_PC_Auth.sh,
+UNINSTALL.sh,
+LICENSE.txt,
+NOTICE.txt (this file),
+PC Auth,
+PC Auth.py
+./assets/authenticator_icon.svg,
+./assets/authenticator_icon.png
+
+Roboto-Medium.ttf is under the license in the contents of: ./assets/ROBOTO-LICENSE.txt
