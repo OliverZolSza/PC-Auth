@@ -1,11 +1,11 @@
-Files which are held under the copyright rules set out in LICENSE.txt:
+Files which are held under the copyright rules set out in LICENSE:
 
 codes.txt.encrypted as distributed (not applicable once codes are changed),
 compile_info.txt,
 INSTALL_PC_Auth.sh,
 UNINSTALL.sh,
-LICENSE.txt,
-NOTICE.txt (this file),
+LICENSE,
+NOTICE (this file),
 PC Auth,
 PC Auth.py
 ./assets/authenticator_icon.svg,
